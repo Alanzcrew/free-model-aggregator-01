@@ -1,7 +1,8 @@
 # Free Model Aggregator
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun)
-[![Node](https://img.shields.io/badge/node-%3E%3D22-green)](https://nodejs.org)
+[![make.fun · free-model-aggregator-01](https://make.fun/badge/free-model-aggregator-01.svg)](https://make.fun/bounty/free-model-aggregator-01?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-01)
+[![rank](https://make.fun/badge/free-model-aggregator-01/Alanzcrew/free-model-aggregator-01/rank.svg)](https://make.fun/bounty/free-model-aggregator-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-01)
+[![reward](https://make.fun/badge/free-model-aggregator-01/Alanzcrew/free-model-aggregator-01/reward.svg)](https://make.fun/bounty/free-model-aggregator-01?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-01)
 
 One server that serves an OpenAI- and Anthropic-compatible API over the best free models it can reach. It reads a brief of free providers, their quality ratings and the workload, probes each provider's catalog, and answers every request with the strongest free model that meets it — failing over to the next best when a provider refuses.
 
